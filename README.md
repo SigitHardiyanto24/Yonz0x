@@ -1,4 +1,4 @@
-### Hello I'm Yonz
+### Hello I'm Sigit Hardiyanto
 
 <p align="center">
   <img src="giphy.gif" width="300" />
