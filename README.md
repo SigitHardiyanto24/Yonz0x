@@ -5,7 +5,7 @@
 </p>
 
 ### About me
-Let me introduce myself. My name is Yonz. I am a cyber forensic scientist and also active in web development. My main focus currently is building security analysis tools (*security
+Let me introduce myself. My name is Sigit Hardiyanto. I am a cyber forensic scientist and also active in web development. My main focus currently is building security analysis tools (*security
 ### Let's Play Game With Me
 <p align="center">
   <img src="https://raw.githubusercontent.com/SigitHardiyanto24/Yonz0x/output/pacman-contribution-graph-dark.svg" alt="Pac-Man Contribution Graph" />
