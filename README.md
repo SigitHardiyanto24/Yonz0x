@@ -8,7 +8,7 @@
 Let me introduce myself. My name is Sigit Hardiyanto. I am a cyber forensic scientist and also active in web development. My main focus currently is building security analysis tools (*security
 ### Let's Play Game With Me
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SigitHardiyanto24/Yonz0x/output/pacman-contribution-graph-dark.svg" alt="Pac-Man Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/SigitHardiyanto24/SigitHardiyanto24/output/pacman-contribution-graph-dark.svg" alt="Pac-Man Contribution Graph" />
 </p>
 ### GitHub Stats
 <p align="left">
